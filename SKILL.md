@@ -41,7 +41,7 @@ Criteri di selezione — includi solo esperienze che rispettano tutti questi pun
 Restituisci esattamente questo formato, senza aggiungere titoli, spiegazioni o commenti attorno:
 
 ```
-Arricchisci il contenuto integrando in modo naturale queste esperienze concrete, senza citarle come lista e senza riferimenti a brand o operatori:
+Arricchisci il contenuto integrando in modo naturale queste esperienze concrete. Si aggiungono — non sostituiscono — le informazioni già raccolte da altre fonti. Inseriscile senza citarle come lista e senza riferimenti a brand o operatori:
 
 - [esperienza 1]
 - [esperienza 2]
